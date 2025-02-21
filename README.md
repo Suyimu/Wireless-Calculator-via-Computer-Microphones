@@ -1,4 +1,4 @@
-# Wireless Calculator via Computer Microphones 🎧➗📡/无线计算器🎧➗📡
+# Wireless Calculator via Computer Microphones 🎧➗📡
 ## Acoustic Data Communication
 ### Description
 This project establishes a communication system between two computers using their microphones and speakers, effectively creating a wireless calculator. The system allows one computer to send a mathematical expression to another, which computes the result and sends it back. This process is robust even in noisy environments due to specific noise handling technologies.
